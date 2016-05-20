@@ -1,0 +1,33 @@
+{
+  "name": "hexo-generator-index-multi-lang",
+  "version": "0.1.0",
+  "description": "Multi-language index generator for Hexo.",
+  "main": "index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyzyz/hexo-generator-index-multi-lang.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "generator",
+    "index",
+    "home",
+    "multi",
+    "language"
+  ],
+  "author": "Sayuu Z",
+  "license": "MIT",
+  "devDependencies": {
+    "hexo": "^3.0.0"
+  },
+  "dependencies": {
+    "hexo-pagination": "0.0.2",
+    "object-assign": "^4.0.1"
+  }
+}
