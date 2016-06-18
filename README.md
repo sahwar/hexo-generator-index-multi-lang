@@ -1,6 +1,8 @@
 # hexo-generator-index-multi-lang
 
 
+> **Attention! This plugin is deprecated and merged into [hexo-generator-basic-set].**
+
 Multi-language Index generator for [Hexo].
 A variant of [hexo-generator-index].
 
@@ -48,3 +50,4 @@ MIT
 
 [Hexo]: http://hexo.io/
 [hexo-generator-index]: https://github.com/hexojs/hexo-generator-index
+[hexo-generator-basic-set]: https://github.com/zyzyz/hexo-generator-basic-set
